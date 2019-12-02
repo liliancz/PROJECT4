@@ -2986,3 +2986,37 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.02-17.52.33:567][946]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
 [2019.12.02-17.52.33:567][946]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B76DFB110-417D-5D1A-9CC0-C5834A91C5AE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=afa4845147fe7219c468f4b37360faaa%7C5f4cfe0f471d44219164a6275e6d76cb%7C6adc9a6b-9a80-4162-a0b4-66f5f40414f5&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
 [2019.12.02-17.52.33:579][946]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.12.02-17.52.33:859][946]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.12.02-17.52.34:027][946]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.12.02-17.52.34:029][946]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.12.02-17.52.34:029][946]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.12.02-17.52.34:030][946]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.12.02-17.52.34:030][946]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.12.02-17.52.34:030][946]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.12.02-17.52.34:030][946]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.02-17.52.34:075][946]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.02-17.52.34:200][946]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.02-17.52.34:241][946]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.02-17.52.34:241][946]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.02-17.52.34:241][946]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.02-17.52.34:241][946]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.02-17.52.35:027][946]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.02-17.52.35:046][946]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.02-17.52.35:046][946]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.02-17.52.35:046][946]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.02-17.52.35:046][946]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.02-17.52.35:046][946]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.02-17.52.35:046][946]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.02-17.52.35:046][946]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.02-17.52.35:046][946]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.02-17.52.35:046][946]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.02-17.52.35:046][946]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.02-17.52.35:046][946]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.02-17.52.35:135][946]LogD3D11RHI: Shutdown
+[2019.12.02-17.52.35:135][946]LogD3D11RHI: CleanupD3DDevice
+[2019.12.02-17.52.35:275][946]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.02-17.52.35:276][946]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.02-17.52.35:276][946]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.02-17.52.38:712][946]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.02-17.52.38:730][946]LogExit: Exiting.
+[2019.12.02-17.52.38:852][946]Log file closed, 12/02/19 11:52:38
